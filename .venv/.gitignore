@@ -1,0 +1,11 @@
+# Poetry / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# System / IDE
+.vscode/
+.idea/
